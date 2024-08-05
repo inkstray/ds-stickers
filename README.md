@@ -1,6 +1,7 @@
 # Nintendo DS/DSi/3DS sticker templates
 - Tries to provide 1:1 recreations for stickers used on any Nintendo *DS(i) Systems (Maybe more in the future)
 - Uses Inkscape's SVG format, allowing for easier access to people who dont want to use/buy Photoshop/Illustrator
+- Uses millimeters for measurement allowing for printing to scale
 
 ## To-do
 - [ ] NTR-001
