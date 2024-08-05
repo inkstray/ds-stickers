@@ -1,10 +1,23 @@
-# ds-stickers
-A repo for all your Nintendo DS/DSi sticker needs!
+# Nintendo DS/DSi/3DS sticker templates
+- Tries to provide 1:1 recreations for stickers used on any Nintendo *DS(i) Systems (Maybe more in the future)
+- Uses Inkscape's SVG format, allowing for easier access to people who dont want to use/buy Photoshop/Illustrator
+
+## To-do
+- [ ] NTR-001
+    - [ ] EUR sticker
+    - [ ] USA sticker
+    - [ ] JPN sticker
+    - [ ] KOR sticker
+    - [ ] CHN sticker
+- [x] USG-001 
+    - [x] Serial no. sticker
+    - [ ] ??? (let me know if i missed something)
+- Other systems will be listed when im done with the first few
 
 ## Examples:
 ![USG-001-serial-example](https://raw.githubusercontent.com/inkstray/ds-stickers/master/assets/USG-001-serial-example.png)
 
-## Licenses used:
+## Licenses:
 - [SIL OPEN FONT LICENSE Version 1.1](https://openfontlicense.org/)
     - Fira Sans
     - OCR-B
