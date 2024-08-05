@@ -1,12 +1,12 @@
 Copyright (c) 2019, Raisty (https://github.com/raisty),
 with Reserved Font Name OCR-B.
 
+Copyright (c) 2012-2015, The Mozilla Foundation and Telefonica S.A.
+with Reserved Font Name Fira Sans
+
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 https://openfontlicense.org/
-
-Copyright (c) 2012-2015, The Mozilla Foundation and Telefonica S.A.
-with Reserved Font Name Fira Sans
 
 -----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
