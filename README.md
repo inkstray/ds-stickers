@@ -16,7 +16,7 @@
 - Other systems will be listed when im done with the first few
 
 ## Examples:
-![USG-001-serial-example](https://raw.githubusercontent.com/inkstray/ds-stickers/master/assets/USG-001-serial-example.png)
+![USG-001-serial-example](https://raw.githubusercontent.com/inkstray/ds-stickers/master/examples/USG-001-serial-example.png)
 
 ## Licenses:
 - [SIL OPEN FONT LICENSE Version 1.1](https://openfontlicense.org/)
