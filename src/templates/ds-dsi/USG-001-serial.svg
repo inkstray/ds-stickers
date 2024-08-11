@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
     <!-- Handwritten version by inkstray -->
     <svg xmlns="http://www.w3.org/2000/svg" width="38mm" height="6mm">
-        <rect width="38mm" height="6mm" x="0" y="0" fill="black"/>
-        <rect width="38mm" height="6mm" x="0" y="0" rx="0.5mm" ry="0.5mm" fill="white"/>
+        <rect
+            width="38mm" height="6mm"
+            x="0" y="0"
+            fill="gray"
+        />
+        <rect
+            width="38mm" height="6mm"
+            x="0" y="0"
+            rx="0.5mm" ry="0.5mm"
+            fill="white"
+        />
         <text 
-            x="50%"
-            y="50%"
+            x="50%" y="50%"
             dominant-baseline="central"
             text-anchor="middle"
             font-size="2.5mm"
