@@ -1,14 +1,13 @@
-# Nintendo DS/DSi/3DS sticker templates
-- Tries to provide 1:1 recreations for stickers used on any Nintendo *DS(i) Systems (Maybe more in the future)
-- Uses Inkscape's SVG format, allowing for easier access to edit/customize for people who dont want to use/buy Photoshop/Illustrator
-- Uses millimeters for measurement allowing for printing to scale
+# Inkstray's sticker repo
+- Attempts to have 1:1 sticker recreations that are able to be edited featuring stickers from various consoles. Currently only Nintendo DS things are here. Maybe more will be added in the future.
+- Stickers were made using [Inkscape](https://inkscape.org) I recommend editing the sticker templates using that.
 
-## NOTES:
-- Going to experiment with a tool called "Graphite" (graphite.rs) for possible future template development
+## Note:
+- Experimentation is being done with a tool called [Graphite](https://graphite.rs) for possible future template development. Which currently doesn't support mm (millimeter) measuring formats.
 
 ## Examples:
-![USG-001-serial-example](https://github.com/inkstray/ds-stickers/blob/master/assets/examples/USG-001-serial.png)
-![flashcarts-example](https://github.com/inkstray/ds-stickers/blob/master/assets/examples/flashcarts.png)
+![Flashcart sticker example with game card](https://github.com/inkstray/ds-stickers/blob/master/assets/examples/flashcarts.png)
+![Nintendo DS serial number sticker example](https://github.com/inkstray/ds-stickers/blob/master/assets/examples/USG-001-serial.png)
 
 ## To-do
 - [ ] NTR-001
