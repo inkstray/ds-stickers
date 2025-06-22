@@ -16,9 +16,8 @@
 - Other systems will be listed when im done with the first few
 
 ## Examples:
-![USG-001-serial-example](https://github.com/inkstray/ds-stickers/blob/master/src/examples/USG-001-serial.png)
+![USG-001-serial-example](https://github.com/inkstray/ds-stickers/blob/master/assets/examples/USG-001-serial.png)
 
 ## Licenses:
 - [SIL OPEN FONT LICENSE Version 1.1](https://openfontlicense.org/)
-    - Fira Sans
     - OCR-B
