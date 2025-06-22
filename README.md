@@ -4,6 +4,7 @@
 
 ## Note:
 - Experimentation is being done with a tool called [Graphite](https://graphite.rs) for possible future template development. Which currently doesn't support mm (millimeter) measuring formats.
+- Fonts you may need include: OCR B, Kozuka Gothic Pro, ITC Eras Ultra, Times New Roman
 
 ## Examples:
 ![Flashcart sticker example with game card](https://github.com/inkstray/ds-stickers/blob/master/assets/examples/flashcarts.png)
