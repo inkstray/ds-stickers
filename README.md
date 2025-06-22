@@ -19,7 +19,7 @@
 - [x] USG-001 
     - [x] Serial no. sticker
     - [ ] ??? (let me know if i missed something)
-- figure out how to legally add fonts like ITC Eras & Times New Roman
+- Figure out how to legally add fonts like ITC Eras & Times New Roman
 
 ## Licenses:
 - [SIL OPEN FONT LICENSE Version 1.1](https://openfontlicense.org/)
