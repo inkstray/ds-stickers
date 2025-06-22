@@ -10,10 +10,6 @@
 ![USG-001-serial-example](https://github.com/inkstray/ds-stickers/blob/master/assets/examples/USG-001-serial.png)
 ![flashcarts-example](https://github.com/inkstray/ds-stickers/blob/master/assets/examples/flashcarts.png)
 
-## Licenses:
-- [SIL OPEN FONT LICENSE Version 1.1](https://openfontlicense.org/)
-    - OCR-B
-
 ## To-do
 - [ ] NTR-001
     - [ ] EUR sticker
@@ -24,4 +20,8 @@
 - [x] USG-001 
     - [x] Serial no. sticker
     - [ ] ??? (let me know if i missed something)
-- figure out how to legally add fonts like ITC Eras & New Times Roman
+- figure out how to legally add fonts like ITC Eras & Times New Roman
+
+## Licenses:
+- [SIL OPEN FONT LICENSE Version 1.1](https://openfontlicense.org/)
+    - OCR-B
