@@ -7,6 +7,7 @@
 
 ## Examples:
 ![Flashcart sticker example with game card](https://github.com/inkstray/ds-stickers/blob/master/assets/examples/flashcarts.png)
+![Nintendo DS (phat) sticker example](https://github.com/inkstray/ds-stickers/blob/master/assets/examples/ntr-001-eur-sticker.png)
 ![Nintendo DS serial number sticker example](https://github.com/inkstray/ds-stickers/blob/master/assets/examples/USG-001-serial.png)
 
 ## To-do
