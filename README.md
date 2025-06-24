@@ -3,7 +3,7 @@
 - Stickers were made using [Inkscape](https://inkscape.org). I recommend editing the sticker templates using that.
 
 ## Note:
-- Experimentation is being done with a tool called [Graphite](https://graphite.rs) for possible future template development. Which currently doesn't support mm (millimeter) measuring formats.
+- Experimentation is being done with other SVG tools for possible future template development. Inkscape lacks a lot of precision and makes SVGs have way too much metadata.
 - Fonts you may need include: OCR B, Kozuka Gothic Pro, ITC Eras Ultra, Times New Roman
 
 ## Examples:
