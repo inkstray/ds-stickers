@@ -3,7 +3,7 @@
 - Stickers were made using [Inkscape](https://inkscape.org). I recommend editing the sticker templates using that. (for now)
 
 ## Note:
-- Experimentation is being done with other SVG tools for possible future template development. Inkscape lacks a lot of precision and makes SVGs have way too much metadata.
+- Experimentation is being done with other tools for possible future template development. Inkscape lacks a lot of precision and makes SVGs have way too much metadata.
 - Fonts you may need include: OCR B, Kozuka Gothic Pro, ITC Eras Ultra, Times New Roman
 
 ## Examples:
